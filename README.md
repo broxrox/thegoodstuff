@@ -1,4 +1,4 @@
 # thegoodstuff
 Everything you need
 
-"<flag>thingsandstuff<flag>"
+"<.flag.>thingsandstuff<.flag.>"
